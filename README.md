@@ -8,17 +8,17 @@
 
 #### Windows
 
-- Téléchargez le fichier d'installation pour Windows depuis le site de Dart.
-- Suivez les étapes d'installation du programme.
-- Ajoutez le chemin d'accès au répertoire d'exécution de Dart à votre variable d'environnement PATH.
+- Téléchargez le SDK Dart.
+- Ajoutez le chemin d'accès du SDK au répertoire d'exécution de Dart à votre variable d'environnement PATH.
 
 #### MacOS
 
 - Utilisez Homebrew :
-  ```bash
+  
+```bash
   brew tap dart-lang/dart
   brew install dart
-
+```
 #### Linux (Debian/Ubuntu)
 
 ```
