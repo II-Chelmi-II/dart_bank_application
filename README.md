@@ -32,11 +32,11 @@
 
 #### Clonage du dépôt
 ```
-git clone https://github.com/II-Chelmi-II/Dart_Bank_Application
+git clone https://github.com/II-Chelmi-II/dart_bank_application
 ```
 ### Exécution du Projet
 ```
-cd DART_BANK_APPLICATION
+cd dart_bank_application
 ```
 ```
 dart main.dart
